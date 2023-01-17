@@ -1,0 +1,19 @@
+{
+  "name": "202301-w2ch2-carles-galan",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Galan9999/202301-w2ch2-carles-galan.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Galan9999/202301-w2ch2-carles-galan/issues"
+  },
+  "homepage": "https://github.com/Galan9999/202301-w2ch2-carles-galan#readme"
+}
