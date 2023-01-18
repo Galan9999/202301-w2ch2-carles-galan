@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Galan9999/202301-w2ch2-carles-galan/issues"
   },
-  "homepage": "https://github.com/Galan9999/202301-w2ch2-carles-galan#readme"
+  "homepage": "https://github.com/Galan9999/202301-w2ch2-carles-galan#readme",
+  "devDependencies": {
+    "husky": "^8.0.3"
+  }
 }
